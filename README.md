@@ -10,7 +10,6 @@ I'm an aspiring software developer figuring things out one project at a time. I 
 
 #### 🛠️ Currently Exploring
 - Programming fundamentals
-- Git & GitHub
 - Debugging (lots of debugging)
 - Turning chaotic ideas into structured projects
 
