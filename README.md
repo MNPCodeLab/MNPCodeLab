@@ -1,13 +1,21 @@
 ### Hi there, I'm Madison 👋
 
-I'm a self-taught developer figuring things out one project at a time. I started my coding journey to gain control over the software I use, build my own tools, and eventually dive into game modding and web development.
+I'm an aspiring software developer figuring things out one project at a time. I started learning to code to gain control over the software I use, build my own tools, and eventually dive into game modding and web development.
 
-#### 🎯 What I'm Working Towards:
-* **Building Custom Tools:** Writing my own programs so I don't have to spend hours searching for software that *almost* works.
-* **Game Modding:** Bringing my ideas to life in my favorite simulation and strategy games.
-* **Web Customization:** Crafting and styling custom webpages from scratch.
+#### 🎯 What I'm Working Towards
+- 🧰 Building custom tools that solve problems I actually have
+- 🎮 Creating mods for my favorite simulation and strategy games
+- 🌐 Building and customizing websites from scratch
+- 💼 Turning a passion for building things into a career in software development
 
-#### 🛠️ Currently Exploring:
-* Learning the fundamentals of programming
-* Fumbling through errors and learning how to fix them
-* Turning chaotic ideas into structured projects
+#### 🛠️ Currently Exploring
+- Programming fundamentals
+- Git & GitHub
+- Debugging (lots of debugging)
+- Turning chaotic ideas into structured projects
+
+#### 🚀 Current Goals
+- Build projects I'm proud to share
+- Grow a portfolio that reflects my progress
+- Learn something new with every project
+- Contribute to open source in the future
