@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Madison 👋
 
-<!--
-**MNPCodeLab/MNPCodeLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught developer figuring things out one project at a time. I started my coding journey to gain control over the software I use, build my own tools, and eventually dive into game modding and web development.
 
-Here are some ideas to get you started:
+#### 🎯 What I'm Working Towards:
+* **Building Custom Tools:** Writing my own programs so I don't have to spend hours searching for software that *almost* works.
+* **Game Modding:** Bringing my ideas to life in my favorite simulation and strategy games.
+* **Web Customization:** Crafting and styling custom webpages from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Currently Exploring:
+* Learning the fundamentals of programming
+* Fumbling through errors and learning how to fix them
+* Turning chaotic ideas into structured projects
